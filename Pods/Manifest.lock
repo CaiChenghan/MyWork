@@ -1,0 +1,12 @@
+PODS:
+  - Addition (0.1.5)
+
+DEPENDENCIES:
+  - Addition (~> 0.1.5)
+
+SPEC CHECKSUMS:
+  Addition: 559c3a36779eac921f986824f7f135edd41c55ae
+
+PODFILE CHECKSUM: 3e98ea381ff1f8b739a4f35f99cec2c9af9b2b07
+
+COCOAPODS: 1.4.0
